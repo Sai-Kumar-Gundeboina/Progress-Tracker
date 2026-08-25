@@ -12,7 +12,7 @@ export default function ProgressRing() {
       </h3>
 
       <p className="text-slate-400">
-        7 of 28 topics completed
+        7 of 28 topics complete
       </p>
     </div>
   );
